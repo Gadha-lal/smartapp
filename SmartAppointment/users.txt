@@ -13,4 +13,4 @@ qwerty,123,Patient
 Gadha,Gadha123,Patient
 Gadha,Lalgi123,Patient
 admin,gadha123,Admin
-Dr Shibina
+Dr Shibina,  ,Doctor
