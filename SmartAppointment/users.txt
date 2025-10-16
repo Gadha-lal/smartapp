@@ -1,0 +1,15 @@
+qwerty,1234,Patient
+asdf,123,Doctor
+asdf,123,Doctor
+zxcv,123,Admin
+qwerty,1234,Patient
+qwerty,123,Patient
+qwer,qwer,Doctor
+qwe,qwe,Admin
+qwerty,123,Patient
+qwer,123,Doctor
+qwe,123,Admin
+qwerty,123,Patient
+Gadha,Gadha123,Patient
+Gadha,Lalgi123,Patient
+admin,gadha123,Admin
