@@ -98,3 +98,4 @@ public class SignupScreen {
         frame.setVisible(true);
     }
 }
+
